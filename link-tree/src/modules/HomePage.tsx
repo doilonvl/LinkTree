@@ -192,7 +192,6 @@ export default function HomePage() {
                 </p>
               </motion.a>
             )}
-
             {/* social share */}
             <div className="flex items-start justify-center gap-4 my-4">
               <button
